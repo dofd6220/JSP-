@@ -1,0 +1,10 @@
+package user;
+
+public class User {
+	
+	private Strng userID;
+	private String userPassword;
+	 userName     | varchar(20) | YES  |     | NULL    |       |
+	 | userGender   | varchar(20) | YES  |     | NULL    |       |
+	 | userEmail
+}

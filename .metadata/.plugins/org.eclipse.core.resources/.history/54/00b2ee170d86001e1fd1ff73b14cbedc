@@ -1,0 +1,8 @@
+package user;
+
+public class User {
+	
+	private Strng userID;
+	private String userPassword;
+	
+}
